@@ -2,29 +2,36 @@
 
 # 🔐 Privacy-Aware Embodied AI: A Position Paper
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![arXiv](https://img.shields.io/badge/arXiv-2510.xxxxx-b31b1b.svg)](https://arxiv.org/abs/2510.xxxxx)
-[![GitHub stars](https://img.shields.io/github/stars/JL-F-D/Survey?style=social)](https://github.com/JL-F-D/Survey)
+[![arXiv](https://img.shields.io/badge/arXiv-25XX.XXXXX-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/25XX.XXXXX)
+[![Website](https://img.shields.io/badge/Website-Project%20Page-blue?logo=googlechrome)](https://your-project-page.github.io/)
+[![GitHub stars](https://img.shields.io/github/stars/YourUsername/YourRepo?style=social)](https://github.com/YourUsername/YourRepo)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/JL-F-D/Survey/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/YourUsername/YourRepo/graphs/commit-activity)
 
-</div>
+<h3 align="center">
+  <strong>⭐ Star us if you find this useful! ⭐</strong>
+</h3>
 
-<div align="center">
-  <img src="assets/banner.png" width="100%" alt="Survey Banner"/>
 </div>
 
 ---
 
 <p align="center">
-  <b>🔥 This is a curated paper list of "Privacy-Aware Embodied AI: A Position Paper".</b>
+  <b>🔥 This is a curated paper list for "Privacy-Aware Embodied AI: A Position Paper".</b>
   <br>
-  To the best of our knowledge, this work presents the <b>first comprehensive survey</b> on privacy considerations in Embodied AI systems, covering the entire closed-loop framework from instruction understanding to environment perception to action planning.
+  To the best of our knowledge, this is the <b>first comprehensive survey</b> on privacy considerations in Embodied AI systems, covering the entire lifecycle from instruction understanding to physical interaction.
   <br>
-  We will continue to <b>UPDATE</b> this repository with the latest developments! 
-  <br>
-  ⭐ <b>Star us to stay tuned!</b> 😘
+  We will continue to <b>UPDATE</b> this repository! 
 </p>
+
+---
+
+## 📢 News
+
+| Date | News |
+|:-----|:-----|
+| 🔥 2025/XX | Paper released on arXiv! |
+| 🔥 2025/XX | Repository created! |
 
 ---
 
