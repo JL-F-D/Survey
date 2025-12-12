@@ -176,7 +176,7 @@ Embodied artificial intelligence (EAI) represents a critical frontier in bridgin
 |:----:|:-----:|:------|:----:|
 | 2025 | arXiv | [VLA-Pruner: Temporal-Aware Dual-Level Visual Token Pruning for Efficient VLA Inference](https://arxiv.org/abs/2511.16449) | - |
 | 2025 | arXiv | [CompressorVLA: Instruction-Guided Visual Token Compression for Efficient Robotic Manipulation](https://arxiv.org/abs/2511.18950) | - |
-| 2025 | arXiv | [The Better You Learn, The Smarter You Prune: Towards Efficient VLA via Differentiable Token Pruning](https://arxiv.org/abs/2509.12594) | - |
+| 2025 | arXiv | [The Better You Learn, The Smarter You Prune: Towards Efficient VLA via Differentiable Token Pruning](https://arxiv.org/abs/2509.12594) | [Website](https://liauto-research.github.io/LightVLA/) |
 | 2025 | arXiv | [Walk More, Read Less: Improving VLN Efficiency via Tuning-Free Multimodal Token Pruning](https://arxiv.org/abs/2509.15250) | - |
 | 2025 | arXiv | [Harnessing Input-Adaptive Inference for Efficient VLN](https://arxiv.org/abs/2508.09262) | - |
 | 2025 | arXiv | [Action-aware Dynamic Pruning for Efficient Vision-Language-Action Manipulation](https://arxiv.org/abs/2509.22093) | - |
@@ -202,7 +202,7 @@ Embodied artificial intelligence (EAI) represents a critical frontier in bridgin
 | Year | Venue | Paper | Code |
 |:----:|:-----:|:------|:----:|
 | 2025 | ACM FSE | [VLATest: Testing and Evaluating Vision-Language-Action Models for Robotic Manipulation](http://dx.doi.org/10.1145/3729343) | - |
-| 2025 | arXiv | [CronusVLA: Towards Efficient and Robust Manipulation via Multi-Frame VLA Modeling](https://arxiv.org/abs/2506.19816) | - |
+| 2025 | arXiv | [CronusVLA: Towards Efficient and Robust Manipulation via Multi-Frame VLA Modeling](https://arxiv.org/abs/2506.19816) | [Code](https://github.com/InternRobotics/CronusVLA) |
 | 2025 | arXiv | [Towards Robust and Secure Embodied AI: A Survey on Vulnerabilities and Attacks](https://arxiv.org/abs/2502.13175) | - |
 | 2025 | Neural Networks | [Sample-efficient and Occlusion-robust RL for Robotic Manipulation via Multimodal Fusion](https://doi.org/10.1016/j.neunet.2025.107202) | - |
 | 2023 | Sensors | [Regularized Denoising Masked Visual Pretraining for Robust Embodied PointGoal Navigation](https://www.mdpi.com/1424-8220/23/7/3553) | - |
@@ -236,7 +236,7 @@ Embodied artificial intelligence (EAI) represents a critical frontier in bridgin
 
 | Year | Venue | Paper | Code |
 |:----:|:-----:|:------|:----:|
-| 2025 | NeurIPS | [SafeVLA: Towards Safety Alignment of Vision-Language-Action Model via Constrained Learning](https://arxiv.org/abs/2503.03480) | - |
+| 2025 | NeurIPS | [SafeVLA: Towards Safety Alignment of Vision-Language-Action Model via Constrained Learning](https://arxiv.org/abs/2503.03480) | [Code](https://github.com/PKU-Alignment/SafeVLA) |
 | 2025 | arXiv | [Safety Aware Task Planning via Large Language Models in Robotics](https://arxiv.org/abs/2503.15707) | - |
 | 2024 | RA-L | [Manipulating Neural Path Planners via Slight Perturbations](http://dx.doi.org/10.1109/LRA.2024.3387131) | - |
 | 2024 | ICRA | [Characterizing Physical Adversarial Attacks on Robot Motion Planners](https://doi.org/10.1109/ICRA57147.2024.10610344) | - |
@@ -272,7 +272,7 @@ Current VLA methods prioritize task performance and generalization, yet lack a c
 
 | Direction | Description | Key References |
 |:----------|:------------|:---------------|
-| **Automated Safety Frameworks** | Leverage foundation models to detect emerging unsafe patterns (e.g., a home service robot failing to recognize inflammable items near stove flames) | [SafeVLA](https://arxiv.org/abs/2503.03480) |
+| **Automated Safety Frameworks** | Leverage foundation models to detect emerging unsafe patterns (e.g., a home service robot failing to recognize inflammable items near stove flames) | [SafeVLA](https://arxiv.org/abs/2503.03480) \| [Code](https://github.com/PKU-Alignment/SafeVLA) |
 | **User-defined Physical Safety Boundaries** | Accommodate personalized deployment requirements in embodied tasks | - |
 
 ### 🔐 Privacy-aware VLA
@@ -292,9 +292,9 @@ While large VLA methods deliver good success rates, their dependence on cloud de
 | Direction | Description | Key References |
 |:----------|:------------|:---------------|
 | **Embodiment-aware Acceleration** | Maintain control fidelity and real-time performance under privacy-aware constraints | [Real-time Action Chunking](https://arxiv.org/abs/2506.07339) |
-| **Static Backbone Compression** | Efficient model compression for edge deployment | [TinyVLA](https://arxiv.org/abs/2406.04339), [SmolVLA](https://arxiv.org/abs/2506.01844) |
-| **Dynamic Computation Pathways** | Adaptive inference based on task complexity | [DEER-VLA](https://arxiv.org/abs/2410.13383), [MoLe-VLA](https://arxiv.org/abs/2503.20384) |
-| **Quantization-aware Training** | Low-bit VLA models for resource-constrained platforms | [BitVLA](https://arxiv.org/abs/2506.07530) |
+| **Static Backbone Compression** | Efficient model compression for edge deployment | [TinyVLA](https://arxiv.org/abs/2406.04339) \| [Code](https://github.com/liyaxuanliyaxuan/TinyVLA), [SmolVLA](https://arxiv.org/abs/2506.01844) \| [Code](https://github.com/huggingface/lerobot) |
+| **Dynamic Computation Pathways** | Adaptive inference based on task complexity | [DEER-VLA](https://arxiv.org/abs/2410.13383) \| [Code](https://github.com/yueyang130/DeeR-VLA), [MoLe-VLA](https://arxiv.org/abs/2503.20384) \| [Code](https://github.com/RoyZry98/MoLe-VLA-Pytorch/) |
+| **Quantization-aware Training** | Low-bit VLA models for resource-constrained platforms | [BitVLA](https://arxiv.org/abs/2506.07530) \| [Code](https://github.com/ustcwhy/BitVLA) |
 
 ### ⚖️ Utility-Accuracy-Privacy Trade-off
 
