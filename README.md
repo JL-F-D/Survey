@@ -26,14 +26,7 @@
 
 ---
 
-## 📢 News
 
-| Date | News |
-|:-----|:-----|
-| 🔥 2025/XX | Paper released on arXiv! |
-| 🔥 2025/XX | Repository created! |
-
----
 
 ## 📢 News
 
