@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔐 Privacy-Aware Embodied AI: A Position Paper
+# 🔐 Privacy-Aware Embodied AI: A Survey
 
 [![arXiv](https://img.shields.io/badge/arXiv-25XX.XXXXX-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/25XX.XXXXX)
 [![Website](https://img.shields.io/badge/Website-Project%20Page-blue?logo=googlechrome)](https://your-project-page.github.io/)
@@ -17,7 +17,7 @@
 ---
 
 <p align="center">
-  <b>🔥 This is a curated paper list for "Privacy-Aware Embodied AI: A Position Paper".</b>
+  <b>🔥 This is a curated paper list for "Privacy-Aware Embodied AI: A Survey".</b>
   <br>
   To the best of our knowledge, this is the <b>first comprehensive survey</b> on privacy considerations in Embodied AI systems, covering the entire lifecycle from instruction understanding to physical interaction.
   <br>
@@ -32,7 +32,7 @@
 
 | Date | News |
 |:-----|:-----|
-| 🔥 2025/06 | Our position paper is released on arXiv! |
+| 🔥 2025/06 | Our survey is released on arXiv! |
 | 🔥 2025/06 | Repository created! |
 
 ---
@@ -79,7 +79,7 @@
 
 <br>
 
-Embodied artificial intelligence (EAI) represents a critical frontier in bridging large-scale models with physical-world interaction. While existing EAI models demonstrate remarkable capabilities, their real-world deployment faces severe constraints due to fundamental privacy concerns. This position paper addresses this gap through the **first comprehensive review of privacy-aware EAI** across the entire data-model-training lifecycle.
+Embodied artificial intelligence (EAI) represents a critical frontier in bridging large-scale models with physical-world interaction. While existing EAI models demonstrate remarkable capabilities, their real-world deployment faces severe constraints due to fundamental privacy concerns. This survey addresses this gap through the **first comprehensive review of privacy-aware EAI** across the entire data-model-training lifecycle.
 
 ---
 
@@ -332,7 +332,7 @@ If you find this survey helpful, please consider citing:
 
 ```bibtex
 @misc{author2025privacyaware,
-  title={Privacy-Aware Embodied AI: A Position Paper},
+  title={Privacy-Aware Embodied AI: A Survey},
   author={Author Name},
   year={2025},
   eprint={2510.xxxxx},
